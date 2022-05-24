@@ -1,0 +1,6 @@
+framework module Pods_FRT_Task_FRT_TaskUITests {
+  umbrella header "Pods-FRT_Task-FRT_TaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
